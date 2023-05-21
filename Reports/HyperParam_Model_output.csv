@@ -1,0 +1,3 @@
+Model_name,RMSE,RMSE_GS,R2_test,R2_train,Best_Params,Training_Time
+XGBRegressor,2873.666958,2865.4912,0.67134,0.712586,"{'gamma': 0, 'learning_rate': 0.15, 'max_depth': 10}",80.993101
+CatBoosting Regressor,2877.370389,2865.265041,0.670493,0.702945,"{'depth': 10, 'iterations': 1500, 'learning_rate': 0.1}",100.98806
