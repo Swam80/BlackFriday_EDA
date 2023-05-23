@@ -1,0 +1,2 @@
+,Model_name,RMSE,RMSE_GS,R2_test,R2_train,Best_Params,Training_Time
+0,XGBRegressor,2890.39636412076,2878.6566284206388,0.6675025348049015,0.7100684121806848,"{'gamma': 0, 'learning_rate': 0.1, 'max_depth': 10, 'n_estimators': 125}",81.96792354981105
